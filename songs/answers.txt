@@ -1,0 +1,2 @@
+1.By looking at the average energy, valence, and danceability of a person’s top 100 songs from the 2018.
+2.By comparing the listening time and loop playback times of users.

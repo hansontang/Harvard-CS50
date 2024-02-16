@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: sorted10000.txt 0m0.240s
+
+sort2 uses: merge sort
+
+How do you know?: sorted10000.txt 0m0.080s
+
+sort3 uses: selection sort
+
+How do you know?: sorted10000.txt 0m0.123s
